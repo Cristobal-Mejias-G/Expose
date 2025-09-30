@@ -1,0 +1,93 @@
+---
+title: "Preferencias por justicia de mercado: Análisis comparativo en torno a condiciones socioeconómicas"
+subtitle: "Exposé · Seminario de Grado 2025 · Prof: Juan Carlos Castillo"
+author: "Cristóbal Mejías"
+date: 09-29-2025
+format: html
+editor: visual
+---
+
+## Planteamiento del problema
+
+La mercantilización de los servicios sociales es un proceso que implica la transformación de sectores clave como la salud y la educación, tradicionalmente considerados derechos fundamentales, en bienes que se distribuyen según la capacidad de pago. Desde fines de 1980 y principios de 1990, distintos gobiernos han optado por esta estrategia, con el fin de reducir costos fiscales y promover valores de responsabilidad individual (Palomera y Ramon-Borja, 2025), reduciendo el papel del Estado como ente garantizador de derechos sociales.
+
+El mercado, se puede definir como “escenarios de interacción social que proporcionan una estructura social y un orden institucional para el intercambio voluntario de derechos relacionados con bienes y servicios, lo cual permite a los actores evaluar, comprar y vender estos derechos” (Beckert, 2009, p.1). El proceso de mercantilización está relacionado con el auge del neoliberalismo, donde el mercado se ha consolidado como el principal mecanismo de distribución, otorgando legitimidad a la desigualdad en el acceso a servicios esenciales como salud, educación y pensiones (Lane, 1986).
+
+El estudio sobre las preferencias en cuanto a la distribución y acceso a los servicios sociales a través de la capacidad de pago, o "justicia de mercado", ha sido abordado desde diversas perspectivas. Según Lindh (2015), se observa una variabilidad entre países en relación con el apoyo a la distribución de estos servicios a través del mercado. En aquellos países con mayores gastos privados en servicios sociales, el apoyo al mercado es más pronunciado, mientras que en Europa es más bajo, y en los países anglosajones y Japón se encuentra un apoyo relativamente fuerte. Por otro lado, Castillo et al. (2025) encontraron que las percepciones más altas de desigualdad económica están relacionadas con un menor respaldo a la justicia de mercado. Además, las percepciones meritocráticas, especialmente aquellas que destacan el esfuerzo individual, se asocian estrechamente con un mayor apoyo a las distribuciones basadas en el mercado, sugiriendo que la meritocracia actúa como una justificación moral para las desigualdades estructurales.
+
+Así como plantea Lindh (2015), surge la necesidad de estudiar el fenómeno desde “las instituciones del mercado que, en distintos grados en diferentes países, actúan como complemento del estado en la administración del bienestar social” (p. 905).
+
+
+## Pregunta de investigación
+
+Pregunta general: ¿En qué medida las condiciones socioeconómicas de cada país se asocia con la preferencia hacia la justicia de mercado?
+
+Pregunta exploratoria 1: ¿En qué medida las condiciones de emprendimiento de cada país se asocia con la preferencia hacia la justicia de mercado?
+
+Pregunta exploratoria 2: ¿En qué medida las condiciones económicas y políticas de cada país se asocia con la preferencia hacia la justicia de mercado?
+
+
+## Objetivos
+
+General: Analizar la relación entre las condiciones de emprendimiento de cada país y la preferencia por justicia de mercado.
+
+Específico 1: Explorar variables a nivel país que ayuden al crecimiento económico.
+
+Específico 2: Explorar variables a nivel país de desarrollo institucional político.
+
+Específico 3: Estudiar la asociación entre las variables contextuales con las preferencias por justicia de mercado.
+
+
+## Marco teórico/referencial
+
+Es posible identificar distintos marcos teóricos a desarrollar en el presente trabajo. En primer lugar, la teoría de justicia desarrollada por John Rawls. Desde una perspectiva filosófica, la justicia se considera como la principal virtud de las instituciones sociales, cuyo objetivo es establecer los principios que deben gobernar la estructura básica de la sociedad, que son sus principales instituciones políticas y económicas (Meyer y Sanklecha, 2017). Para lograrlo, Rawls propone un método de justificación basado en el equilibrio reflexivo y utiliza el experimento mental de la posición original detrás del velo de ignorancia. Este mecanismo asegura que los principios acordados modelen el ideal de personas libres e iguales y no estén sesgados por el interés propio. De este proceso se derivan los principios de libertades básicas iguales y el principio de diferencia, que exige que las desigualdades económicas beneficien al máximo a los miembros menos aventajados de la sociedad.
+
+Siguiendo la línea de la justicia, y contrastando con el carácter normativo, desde la sociología se aborda la justicia desde una perspectiva empírica y colectiva. En lugar de definir qué debería ser justo, se estudia la justicia distributiva como un valor social y un fenómeno observable, centrándose en describir y explicar su relevancia para los individuos y los colectivos. Esta disciplina asume que la justicia es socialmente determinada—moldeada por estructuras y procesos sociales—y que funciona como una fuerza social con consecuencias reales en el funcionamiento institucional. Su estudio requiere considerar áreas claves como el análisis de instituciones, analizando cómo las concepciones de justicia se materializan en estados de bienestar; análisis de discursos, investigaciones de actitudes hacia la equidad o igualdad, e investigaciones de conductuales de la percepción de injusticia (Liebig y Sauer, 2017).
+
+Por último, se hace necesario desarrollar la Teoría de las instituciones (North) donde existen tanto instituciones formales y no formales, y su desempeño en el cambio económico; así como en su relación con los estados de bienestar, categorizados como regímenes de bienestar socialdemócrata, conservador o liberal, ya que cada uno conforma una relación diferente con la esfera económica, la cual puede incidir en las preferencias y justificación del sistema de cada país (Sachweh, 2017).
+
+
+## Metodología
+
+La encuesta principal es la International Social Survey Programme: Social Inequality V - ISSP 2019-, cuyo tema central es "Actitudes hacia la Desigualdad Social".
+
+Otras fuentes de información serán el PIB, índices de libertad económica, Percepción de empresarios a nivel nacional. 
+
+La selección de países será dependiendo de la cantidad de información disponible
+
+
+## Cronograma tentativo
+
+Octubre 2025:
+
+Semana 1, 2 y 3: Nueva definición de problema enfocado en sociología económica, actores del mercado y análisis institucional. Reunión con profesor guía para revisión.
+
+Semana 4 y 5: Elección de variables, recolección de datos y desarrollo metodológico.
+
+Noviembre 2025:
+
+Semana 1 y 2: Desarrollo metodológico y análisis descriptivo. Reunión con profesor guía para revisión.
+
+Semana 3: Desarrollo de informe final.
+
+Semana 4: Entrega final.
+
+
+## Referencias
+
+Beckert, J. (2009). El orden social de los mercados. La constitución social, política y moral de la economía chilena, 107.
+
+Castillo, J. C., Laffert, A., Carrasco, K., & Iturra, J. (2025). Perceptions of Inequality and Meritocracy: Their Interplay in Shaping Preferences for Market Justice in Chile (2016-2023). Under Review at Frontiers in Sociology.
+
+Lane, R. E. (1986). Market justice, political justice. American Political Science Review, 80(2), 383-402.
+
+Liebig, S., Sauer, C. (2016). Sociology of Justice. In: Sabbagh, C., Schmitt, M. (eds) Handbook of Social Justice Theory and Research. Springer, New York, NY. https://doi.org/10.1007/978-1-4939-3216-0_3
+
+Lindh, A. (2015). Public Opinion against Markets? Attitudes towards Market Distribution of Social Services – A Comparison of 17 Countries. Social Policy & Administration, 49(7), 887-910. https://doi.org/10.1111/spol.12105
+
+Meyer, L.H., Sanklecha, P. (2016). Philosophy of Justice: Extending Liberal Justice in Space and Time. In: Sabbagh, C., Schmitt, M. (eds) Handbook of Social Justice Theory and Research. Springer, New York, NY. https://doi.org/10.1007/978-1-4939-3216-0_2
+
+
+Palomera, D., & Ramon-Borja, M. L. (2025). Crecimiento y consecuencias de la mercantilización de los cuidados de larga duración. Zerbitzuan: Gizarte zerbitzuetarako aldizkaria= Revista de servicios sociales, (85), 7-19.
+
+Sachweh, P. (2016). Social Justice and the Welfare State: Institutions, Outcomes, and Attitudes in Comparative Perspective. In: Sabbagh, C., Schmitt, M. (eds) Handbook of Social Justice Theory and Research. Springer, New York, NY. https://doi.org/10.1007/978-1-4939-3216-0_16
